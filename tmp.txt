@@ -1,0 +1,149 @@
+
+
+
+
+
+
+                                 ..........................                                      
+ ooooooooooooooooooooooooooooo        CURRENT SETTINGS        ooooooooooooooooooooooooooooooooooo
+                                 ..........................                                      
+
+                . Sequence filename : 				 rhodopsin_55_1
+                . Data type :             			 aa
+                . Sequence format : 				 interleaved
+                . Number of data sets : 			 1
+                . Nb of bootstrapped data sets : 		 100
+                . Compute approximate likelihood ratio test : 	 no
+                . Model name : 					 LG
+                . Proportion of invariable sites :		 0.000000
+                . Number of subst. rate categs : 		 4
+                . Gamma distribution parameter : 		 estimated
+                . 'Middle' of each rate class  : 		 mean
+                . Amino acid equilibrium frequencies : 		 model
+                . Optimise tree topology : 			 yes
+                . Tree topology search : 			 NNIs
+                . Starting tree : 				 BioNJ
+                . Add random input tree : 			 no
+                . Optimise branch lengths : 			 yes
+                . Optimise substitution model parameters : 	 yes
+                . Run ID : 					 none
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+. Compressing sequences...
+
+. 47 patterns found. (out of a total of 55 sites) 
+
+. 6 sites without polymorphism (10.91%).
+
+. Computing pairwise distances...
+
+. Building BioNJ tree...
+
+. This analysis requires at least 5 Mo of memory space.
+
+. Maximizing likelihood (using NNI moves)...
+
+. (    0 sec) [      -351.9288] [Alpha              ][  1.996970]
+. (    0 sec) [      -351.9288] [Topology           ]
+. (    0 sec) [      -342.4615] [Topology           ]
+. (    0 sec) [      -342.2698] [Topology           ]
+. (    1 sec) [      -342.2560] [Topology           ]
+. (    1 sec) [      -342.2545] [Topology           ]
+. (    1 sec) [      -342.2542] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (    2 sec) [      -342.2519] [Topology           ]
+. (    2 sec) [      -342.1557] [Alpha              ][  2.662854]
+. (    2 sec) [      -342.1557] [Topology           ]
+. (    3 sec) [      -342.0647] [Topology           ]
+. (    3 sec) [      -342.0581] [Topology           ]
+. (    3 sec) [      -342.0576] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (    4 sec) [      -342.0575] [Topology           ]
+. (    4 sec) [      -341.9582] [Alpha              ][  3.933790]
+. (    4 sec) [      -341.9582] [Topology           ]
+. (    5 sec) [      -341.8695] [Topology           ]
+. (    5 sec) [      -341.8632] [Topology           ]
+. (    5 sec) [      -341.8627] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (    6 sec) [      -341.8589] [Topology           ]
+. (    7 sec) [      -341.7621] [Alpha              ][  7.119072]
+. (    7 sec) [      -341.7621] [Topology           ]
+. (    7 sec) [      -341.6819] [Topology           ]
+. (    7 sec) [      -341.6763] [Topology           ]
+. (    7 sec) [      -341.6759] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (    9 sec) [      -341.6087] [Alpha              ][ 14.210441]
+. (    9 sec) [      -341.6087] [Topology           ]
+. (    9 sec) [      -341.5756] [Topology           ]
+. (    9 sec) [      -341.5734] [Topology           ]
+. (    9 sec) [      -341.5732] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   11 sec) [      -341.5361] [Alpha              ][ 28.390181]
+. (   11 sec) [      -341.5361] [Topology           ]
+. (   11 sec) [      -341.5274] [Topology           ]
+. (   11 sec) [      -341.5269] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   13 sec) [      -341.5081] [Alpha              ][ 56.719076]
+. (   13 sec) [      -341.5081] [Topology           ]
+. (   13 sec) [      -341.5055] [Topology           ]
+. (   13 sec) [      -341.5053] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   15 sec) [      -341.4957] [Alpha              ][113.266292]
+. (   15 sec) [      -341.4957] [Topology           ]
+. (   15 sec) [      -341.4950] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   16 sec) [      -341.4903] [Alpha              ][226.189385]
+. (   16 sec) [      -341.4903] [Topology           ]
+. (   17 sec) [      -341.4899] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   18 sec) [      -341.4875] [Alpha              ][451.693410]
+. (   18 sec) [      -341.4875] [Topology           ]
+. (   18 sec) [      -341.4874] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   20 sec) [      -341.4862] [Alpha              ][902.018179]
+. (   20 sec) [      -341.4862] [Topology           ]
+. (   20 sec) [      -341.4862] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+. (   21 sec) [      -341.4856] [Alpha              ][1801.303220]
+. (   21 sec) [      -341.4856] [Topology           ]
+. (   22 sec) [      -341.4856] [Topology           ]
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Checking for NNIs, optimizing five branches...
+
+
+. Log likelihood of the current tree: -341.485570.
+
+. Launch bootstrap analysis on the most likely tree...
+
+
+. Non parametric bootstrap analysis 
+
+  [

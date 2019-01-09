@@ -1,0 +1,366 @@
+Date d'execution :Sun Jun 05 15:21:51 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 10
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 10   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 15:25:09 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 10
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 10   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 15:44:43 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 50
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 15:47:58 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 200
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 15:54:11 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 16:12:23 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 16:36:00 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 16:48:24 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Sun Jun 05 17:09:36 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Mon Aug 29 14:41:25 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Mon Aug 29 22:19:05 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+
+Date d'execution :Fri Sep 23 10:13:29 EDT 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : polypeptide_1_precursor
+|Longueur Gene : 14
+|Nombre Especes : 21
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 7
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   CLIMAT                   |
++-------------------------------------------+
+|=> CLIMATIC TREE : 
+	Parametre climatique:temp_12_120
+	Nombre d'especes sur l'arbre de distribution:30
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:16
+
+Result :
+============================================================
+Positions	|RF Normalise	|Boostrap Moyen	|
+------------------------------------------------------------
+   *1 - 14   	|0.7692307692307693   	|0.0                    	|
+    1 - 7    	|0.7692307692307693   	|0.0                    	|
+    6 - 12   	|0.7692307692307693   	|0.0                    	|
+============================================================
+

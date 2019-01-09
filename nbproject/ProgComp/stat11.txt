@@ -1,0 +1,42 @@
+
+Tree reconstruction from incomplete dissimilarity matrix D
+
+
+Tree reconstruction method - MW-modified
+Only existing values of D were taken into account when computing these statistics
+
+
+
+TREE METRIC (ADDITIVE DISTANCE) MATRIX (AD)
+
+Alpha 0.000000 1.999886 2.000000 3.000000 3.000000 
+Beta 1.999886 0.000000 2.000000 3.000000 3.000000 
+Gamma 2.000000 2.000000 0.000000 3.000000 3.000000 
+Delta 3.000000 3.000000 3.000000 0.000000 1.000000 
+Epsilon 3.000000 3.000000 3.000000 1.000000 0.000000 
+
+
+THE FOLLOWING STATISTICS ARE AVAILABLE FOR 
+A GIVEN DISSIMILARITY (D) AND AN OBTAINED TREE METRIC (AD)
+
+Only existing values of D were taken into account when computing these statistics
+
+
+Least-squares coefficient  Sum (Dij-ADij)^2  = 0.0000000000
+                            i<j 
+Average absolute difference  Sum |Dij-ADij|/(n(n-1)/2)  = 0.0000000000
+                             i<j 
+Maximum absolute difference   Max|Dij-ADij| = 0.0000000000
+                              i,j 
+Total length of the tree   L  = 5.500000
+
+
+              TREE EDGES WITH THEIR LENGTHS
+
+               6--2               1.000000
+               7--6               0.000000
+               6--3               1.000000
+               8--4               0.500000
+               1--7               1.000000
+               7--8               1.500000
+               8--5               0.500000

@@ -1,0 +1,22 @@
+<chart>
+	<chart_data>
+		<row>
+			<null/>
+			<string>Lundi
+(13)</string>
+			<string>Mardi
+(28)</string>
+			<string>Mercredi
+(15)</string>
+			<string>Jeudi
+(32)</string>
+		</row>
+		<row>
+			<string>Fréquentation en fonction : du jour de la semaine.</string>
+			<number>13</number>
+			<number>28</number>
+			<number>15</number>
+			<number>32</number>
+		</row>
+	</chart_data>
+</chart>

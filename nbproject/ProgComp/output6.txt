@@ -1,0 +1,22 @@
+; Ceci est un fichier de configuration d'exemple pour la création d'un graphique
+; Les commentaires commencent par ';'
+; drawRetic => 0=non , 1=normale, 2=hgt
+
+maptype = VERTICAL					; Type du tracé de l'arbre (AXIAL, RADIAL, HORIZONTAL, VERTICAL)
+root = 1							; Le numéro du noeud de la racine. (Donc si il y a 10 noeuds, numéro de 1 à 10)
+intVerPrint = O						; 'O' ou 'N', Affiche ou non les numéros des sommets internes
+proportion = N						; 'O' ou 'N', Longueurs des branches proportionnelles ou non
+
+;xMax = 							; Largeur du dessin (facultatif)
+;yMax = 							; Hauteur du dessin (facultatif)
+drawRealNames = 1					; 1 ou 0, Affiche ou non le nom des objets (sinon on affiche les numéros)
+
+; Couleur possible (BLACK, BLUE, GREEN, CYAN, RED, MAGENTA, YELLOW, WHITE)
+colorobject = BLACK					; Couleur des objets
+colorreticulation = MAGENTA			; Couleur des réticulations 
+coloredge = BLUE					; ???
+hgt = drawRetic = 1
+n = 10
+et = Cow,Carp,Chicken,Human,Loach,Mouse,Rat,Seal,Whale,Frog
+aretes = 9,11,8,12,6,13,13,14,7,13,4,15,3,16,2,17,17,18,5,17,11,1,12,11,14,12,15,14,16,15,18,16,10,18
+longueur = 0.083929,0.100030,0.075850,0.031458,0.073274,0.159432,0.150787,0.098578,0.032997,0.105677,0.091508,0.003773,0.015042,0.013013,0.019035,0.020620,0.114156

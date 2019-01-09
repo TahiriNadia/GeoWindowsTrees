@@ -1,0 +1,2 @@
+#!/bin/sh
+executable/neighbor </home/nancy/Distance_WindowsTrees_v3/executable/Inputs/inputNJ >sortieNJ

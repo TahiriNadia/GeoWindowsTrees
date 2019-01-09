@@ -1,0 +1,49 @@
+<chart>
+	<chart_data>
+		<row>
+			<null/>
+			<string>05
+(8)</string>
+			<string>06
+(8)</string>
+			<string>07
+(10)</string>
+			<string>08
+(5)</string>
+			<string>10
+(7)</string>
+			<string>11
+(6)</string>
+			<string>12
+(10)</string>
+			<string>13
+(12)</string>
+			<string>14
+(3)</string>
+			<string>15
+(8)</string>
+			<string>16
+(9)</string>
+			<string>17
+(1)</string>
+			<string>39
+(1)</string>
+		</row>
+		<row>
+			<string>Fréquentation en fonction : du numéro de la semaine.</string>
+			<number>8</number>
+			<number>8</number>
+			<number>10</number>
+			<number>5</number>
+			<number>7</number>
+			<number>6</number>
+			<number>10</number>
+			<number>12</number>
+			<number>3</number>
+			<number>8</number>
+			<number>9</number>
+			<number>1</number>
+			<number>1</number>
+		</row>
+	</chart_data>
+</chart>

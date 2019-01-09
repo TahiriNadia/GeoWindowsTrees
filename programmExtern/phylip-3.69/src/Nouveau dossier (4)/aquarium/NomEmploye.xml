@@ -1,0 +1,16 @@
+<chart>
+	<chart_data>
+		<row>
+			<null/>
+			<string>Alexandre
+(38)</string>
+			<string>yakpaoro
+(50)</string>
+		</row>
+		<row>
+			<string>Fréquentation en fonction : du nom de l'employé(e).</string>
+			<number>38</number>
+			<number>50</number>
+		</row>
+	</chart_data>
+</chart>

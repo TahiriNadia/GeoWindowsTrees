@@ -1,0 +1,9 @@
+1
+ATP_synthase_F0_subunit_6
+2
+Tree_2
+Tree_3
+50
+25
+10
+150

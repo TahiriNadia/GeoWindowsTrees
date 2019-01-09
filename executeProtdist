@@ -1,0 +1,2 @@
+#!/bin/sh
+executable/protdist </home/nancy/Distance_WindowsTrees_v3/executable/Inputs/inputProtD >sortieProtD

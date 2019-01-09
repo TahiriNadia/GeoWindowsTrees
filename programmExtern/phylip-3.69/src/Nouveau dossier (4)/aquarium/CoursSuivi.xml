@@ -1,0 +1,34 @@
+<chart>
+	<chart_data>
+		<row>
+			<null/>
+			<string>INF1120
+(48)</string>
+			<string>INF2005
+(5)</string>
+			<string>INF2120
+(24)</string>
+			<string>INF2170
+(1)</string>
+			<string>INF3005
+(1)</string>
+			<string>INF3105
+(1)</string>
+			<string>INF3135
+(4)</string>
+			<string>INF3180
+(4)</string>
+		</row>
+		<row>
+			<string>Fréquentation en fonction : du cours suivi.</string>
+			<number>48</number>
+			<number>5</number>
+			<number>24</number>
+			<number>1</number>
+			<number>1</number>
+			<number>1</number>
+			<number>4</number>
+			<number>4</number>
+		</row>
+	</chart_data>
+</chart>

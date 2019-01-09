@@ -1,0 +1,19 @@
+<chart>
+	<chart_data>
+		<row>
+			<null/>
+			<string>AM
+(19)</string>
+			<string>PM
+(53)</string>
+			<string>SOIR
+(16)</string>
+		</row>
+		<row>
+			<string>Fréquentation en fonction : de la période de la journée.</string>
+			<number>19</number>
+			<number>53</number>
+			<number>16</number>
+		</row>
+	</chart_data>
+</chart>
